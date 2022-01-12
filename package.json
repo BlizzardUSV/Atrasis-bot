@@ -6,10 +6,10 @@
  "author": "Blizzard",
  "license": "ISC",
  "dependencies": {
-  "discord.py": "^2.27.1",
-  "requests.py",
-	"json.py",
-	"datetime.py"
+  "discord.py": "^1.7.3",
+  "requests.py": "^2.27.1",
+  "json.py": "^1.0.0",
+  "datetime.py: "^1.0.0"
 	},
   
  "scripts": {
