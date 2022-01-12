@@ -1,0 +1,1 @@
+{	"name": "Arès",	"version" : "1.0",	"description" : "",	"main": "index.py",	"author": "Blizzard",	"license": "ISC",	"dependencies": {		"discord.py",		"requests.py",		"json.py",		"datetime.py"	}}
